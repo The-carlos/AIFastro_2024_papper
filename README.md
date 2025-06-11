@@ -108,9 +108,9 @@ Find the publicated file on the repo as "Output_paper.pdf".
 
 ## 🌍 Personal Note
 
-Our paper was presented at the **International Astronautical Congress 2024** in **Milan, Italy** 🇮🇹.
+Our paper was presented at the **International Astronautical Congress 2024** in **Milan, Italy**.
 
-Although I couldn’t attend in person, I’ll be adding a photo of myself next to the screen where our work was featured 📸.
+Although I couldn’t attend in person, I’ll be adding a photo of me on the screen where our work was featured 📸.
 
 ![My work at IAC 2024](AIFastro_project/presentation_photo.jpeg)
 
