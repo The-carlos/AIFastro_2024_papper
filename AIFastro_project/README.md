@@ -112,7 +112,7 @@ Our paper was presented at the **International Astronautical Congress 2024** in 
 
 Although I couldn’t attend in person, I’ll be adding a photo of myself next to the screen where our work was featured 📸.
 
-![My work at IAC 2024](visualizations/presentation_photo.jpeg)
+![My work at IAC 2024](presentation_photo.jpeg)
 
 
 > *Here's a snapshot of our work being shown in a faraway country. Today, a part of my software lives inside a scientific document – and for me, that's a monumental professional achievement. I'm deeply grateful.*
